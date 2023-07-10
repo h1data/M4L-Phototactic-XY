@@ -1,10 +1,16 @@
 # Phototactic XY
 ![Phototactic XY image](img/PhototacticXY.gif)
+
 ## What is this?
 A Max for Live device; typical but the most uncertain XY pad.
 Simulates a bug randomly flies being attracted by light.
+
 ## Download
 https://maxforlive.com/library/device/8437/phototactic-xy
+
+## Requirements
+- Ableton Live 11.2 / Cycling '74 Max 8.3.1 or later
+
 ## Parameters
 * `Mode` Switches the behavior of movements.
   - `Step` Changes position at interval time.
